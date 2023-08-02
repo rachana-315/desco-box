@@ -1,0 +1,33 @@
+.container{
+  border:2px solid black;
+  height:3000px;
+}
+.box{
+  display:inline-block;
+  border:2px solid purple;
+  width:150px;
+  height:130px;
+  margin:2px;
+}
+#box2{
+  position:static;
+  left:500px;
+}
+#box4{
+  position:static;
+  left:700px;
+  top:1000px;
+}
+#box3:hover{
+  background-color: aqua;
+  border-radius: 5px;
+
+}
+#box1{
+  position:;
+}
+
+
+
+
+
